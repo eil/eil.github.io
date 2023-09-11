@@ -3,12 +3,12 @@ My name is Hanwen Liu. I am a third-year PhD student at [Wangxuan Institute of C
 I write codes and papers about machine learning, especially focusing on machine learning research in the aspect of security and privacy. I served as a reviewer for venues including AISTATS, ICML, etc.
 
 ### Research Papers
-- [Trapdoor Normalization with Irreversible Ownership Verification](){:target="_blank"}. ***Hanwen Liu***, Zhenyu Weng, Yuesheng Zhu, Yadong Mu. `ICML 2023`
+- [Trapdoor Normalization with Irreversible Ownership Verification](https://proceedings.mlr.press/v202/liu23an.html){:target="_blank"}. ***Hanwen Liu***, Zhenyu Weng, Yuesheng Zhu, Yadong Mu. `ICML 2023`
 
   ![CITATIONS](https://img.shields.io/badge/dynamic/json?label=CITATIONS&query=citationCount&style=flat-square&logo=semanticscholar&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F105056f44d03e2898919a58a3bcf9c9620c476cd%3Ffields%3DcitationCount)
   ![CCF-A](https://img.shields.io/badge/CCF--A-CONFERENCE-blue?style=flat-square)
 
-- [Curriculum Graph Poisoning](){:target="_blank"}. ***Hanwen Liu***, Peilin Zhao, Tingyang Xu, Yatao Bian, Junzhou Huang, Yuesheng Zhu, Yadong Mu. `WWW 2023`
+- [Curriculum Graph Poisoning](https://dl.acm.org/doi/10.1145/3543507.3583211){:target="_blank"}. ***Hanwen Liu***, Peilin Zhao, Tingyang Xu, Yatao Bian, Junzhou Huang, Yuesheng Zhu, Yadong Mu. `WWW 2023`
 
   ![CITATIONS](https://img.shields.io/badge/dynamic/json?label=CITATIONS&query=citationCount&style=flat-square&logo=semanticscholar&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F47f6ad25c8ba943d95e5e8eb43eb9863b98dea73%3Ffields%3DcitationCount)
   ![CCF-A](https://img.shields.io/badge/CCF--A-CONFERENCE-blue?style=flat-square)
