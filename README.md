@@ -3,6 +3,10 @@ My name is Hanwen Liu. I am a fourth-year PhD student at [Wangxuan Institute of 
 I write codes and papers about machine learning, especially focusing on machine learning research in the aspect of security and privacy. I served as a reviewer for venues including AISTATS, ICML, etc.
 
 ### Research Papers
+- [Countering Personalized Text-to-Image Generation with Influence Watermarks](https://hanwenliu.com){:target="_blank"}. ***Hanwen Liu***, Zhicheng Sun, Yadong Mu. `CVPR 2024`
+
+  ![CCF-A](https://img.shields.io/badge/CCF--A-CONFERENCE-blue?style=flat-square)
+
 - [Trapdoor Normalization with Irreversible Ownership Verification](https://proceedings.mlr.press/v202/liu23an.html){:target="_blank"}. ***Hanwen Liu***, Zhenyu Weng, Yuesheng Zhu, Yadong Mu. `ICML 2023`
 
   ![CITATIONS](https://img.shields.io/badge/dynamic/json?label=CITATIONS&query=citationCount&style=flat-square&logo=semanticscholar&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F105056f44d03e2898919a58a3bcf9c9620c476cd%3Ffields%3DcitationCount)
