@@ -1,6 +1,6 @@
 My name is Hanwen Liu. I am a fourth-year PhD student at [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn){:target="_blank"}, [Peking University](https://www.pku.edu.cn){:target="_blank"}.
 
-I write codes and papers about machine learning, especially focusing on machine learning research in the aspect of security and privacy. I served as a reviewer for venues including AISTATS, ICML, etc.
+I write codes and papers about machine learning, especially focusing on machine learning research in the aspect of security and privacy. During my graduate study, I was a research intern at [Tencent AI Lab](https://ai.tencent.com){:target="_blank"} and was supported by the Presidential Scholarship, which was the highest honor for Ph.D. students at Peking University. 
 
 ### Research Papers
 - [Countering Personalized Text-to-Image Generation with Influence Watermarks](https://hanwenliu.com){:target="_blank"}. ***Hanwen Liu***, Zhicheng Sun, Yadong Mu. `CVPR 2024`
