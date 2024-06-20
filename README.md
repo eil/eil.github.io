@@ -5,19 +5,15 @@ I write codes and papers about machine learning, especially focusing on machine 
 ### Research Papers
 - [Countering Personalized Text-to-Image Generation with Influence Watermarks](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Countering_Personalized_Text-to-Image_Generation_with_Influence_Watermarks_CVPR_2024_paper.html){:target="_blank"}. ***Hanwen Liu***, Zhicheng Sun, Yadong Mu. `CVPR 2024`
 
-  ![CCF-A](https://img.shields.io/badge/CCF--A-CONFERENCE-blue?style=flat-square)
 
 - [Trapdoor Normalization with Irreversible Ownership Verification](https://proceedings.mlr.press/v202/liu23an.html){:target="_blank"}. ***Hanwen Liu***, Zhenyu Weng, Yuesheng Zhu, Yadong Mu. `ICML 2023`
 
-  ![CCF-A](https://img.shields.io/badge/CCF--A-CONFERENCE-blue?style=flat-square)
 
 - [Curriculum Graph Poisoning](https://dl.acm.org/doi/10.1145/3543507.3583211){:target="_blank"}. ***Hanwen Liu***, Peilin Zhao, Tingyang Xu, Yatao Bian, Junzhou Huang, Yuesheng Zhu, Yadong Mu. `WWW 2023`
 
-  ![CCF-A](https://img.shields.io/badge/CCF--A-CONFERENCE-blue?style=flat-square)
  
 - [Watermarking Deep Neural Networks with Greedy Residuals](https://proceedings.mlr.press/v139/liu21x.html){:target="_blank"}. ***Hanwen Liu***, Zhenyu Weng, Yuesheng Zhu. `ICML 2021`
-  
-  ![CCF-A](https://img.shields.io/badge/CCF--A-CONFERENCE-blue?style=flat-square)
+
 
 ### Contact Information
 - Email: hanwenliu {at} msn.com
